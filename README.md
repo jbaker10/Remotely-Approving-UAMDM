@@ -3,7 +3,7 @@ This is a POC of how to remotely enable UAMDM on machines running 10.13.2 or hig
 
 The basic setup steps needed are:
 
-1. Open **System Preferences** --> **Security & Privacy**
+1. Open **System Preferences** --> **Security & Privacy** --> **Privacy**
 2. Click the **Accessibility** option
 3. Add, using the plus (+) button, the app **Script Editor** to allow it extra privileges over your machine
 4. Close **System Preferences**
