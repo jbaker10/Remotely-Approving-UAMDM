@@ -5,7 +5,7 @@ The basic setup steps needed are:
 
 1. Open **System Preferences** --> **Security & Privacy** --> **Privacy**
 2. Click the **Accessibility** option
-3. Add, using the plus (+) button, the app **Script Editor** to allow it extra privileges over your machine
+3. Add, using the plus (+) button, the app **Script Editor** (/Applications/Utilities/Script Editor.app) to allow it extra privileges over your machine
 4. Close **System Preferences**
 5. Run the downloaded **"Remotely Approve UAMDM.scpt"** from this repo
 6. Your machine should now have an approved UAMDM status
